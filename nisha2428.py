@@ -48,11 +48,11 @@ if_name_=='_main_':
     llist=LinkedList() 
     llist.append(6)
     llist.push(7);
-llist.push(1);
-llist.append(4)
-llist.insertAfter(llist.head.next,8)
-print('Created linked list is:')
-llist.printList()
+    llist.push(1);
+    llist.append(4)
+    llist.insertAfter(llist.head.next,8)
+    print('Created linked list is:')
+    llist.printList()
 
       
 
